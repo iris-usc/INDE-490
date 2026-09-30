@@ -1,1 +1,1 @@
-- Course home: https://iris-usc.github.io/INDE-490/
+Course home: https://iris-usc.github.io/INDE-490/
